@@ -1,2 +1,2 @@
 # Aplicacion de consola con inquirer
-![screenshot](screenshot.jpg)
+![screenshot](./screenshot.jpg)
